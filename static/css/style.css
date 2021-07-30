@@ -10,6 +10,8 @@
 }
 
 body {
+    height: 100%;
+
     background: url(/static/css/img/background.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
@@ -46,12 +48,6 @@ li {
 
 a {
     text-decoration: none
-}
-
-html,
-body {
-    background: #fff;
-    height: 100%;
 }
 
 input[type="button"],
